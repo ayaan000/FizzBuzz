@@ -283,7 +283,7 @@ through the readings over the next couple of weeks.
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message.
 
 ### Task 3.4 Pulling changes from GitHub
-
+THIS IS THE CHANGE
 So far we have only talked about how to *push local changes* to a remote repository on GitHub. In practice, several
 programmers will often be working in the same remote repository. So when one programmer pushes their changes, everyone
 else needs a way to update their local copies to reflect these changes. Git provides a command for just that!
@@ -296,7 +296,7 @@ ways to help you resolve such conflicts without too much difficulty.
 To get your first experience with `git pull`, you can make a quick change to one of the files in your Fizz Buzz repository
 on GitHub.
 
-- [ ] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
+- [X] Open any of the files (like this readme file, for example) on the GitHub webpage for your repository. Near the
 right side of the screen, you should see an edit button (with a pencil on it). Click that and make a small edit to
 the file. Then click the commit button to commit the change to the repository.
 
